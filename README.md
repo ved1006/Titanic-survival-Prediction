@@ -17,14 +17,9 @@ The result is displayed instantly on the screen
 
 🛠️ Tech Stack
 
-->Python 🐍
-
-Flask (for backend & deployment)
-
-Scikit-learn (ML models)
-
-Joblib (model saving/loading)
-
-HTML + CSS (frontend form)
-
-Render (deployment platform)
+->Python 
+->Flask (for backend)
+->Scikit-learn (ML models)
+->Joblib (model saving/loading)
+->HTML + CSS (frontend form)
+->Render (deployment platform)
